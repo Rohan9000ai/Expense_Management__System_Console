@@ -1,0 +1,1 @@
+enum Category {food, education, shopping, health, others}

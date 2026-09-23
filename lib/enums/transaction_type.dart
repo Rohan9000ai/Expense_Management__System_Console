@@ -1,0 +1,1 @@
+enum Transctions {cash, online, banktransfer, others}
